@@ -1,0 +1,16 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\WandFunctionsRight.cs">
+    <Files>
+      <File FileName="Assets\WandFunctionsRight.cs" Line="1" Column="1" />
+      <File FileName="Assets\TypeALetter.cs" Line="1" Column="1" />
+      <File FileName="Assets\WandFunctionsLeft.cs" Line="1" Column="1" />
+      <File FileName="Assets\MakeKeysType.cs" Line="1" Column="1" />
+      <File FileName="Assets\backspace.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
